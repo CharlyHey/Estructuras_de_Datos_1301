@@ -1,3 +1,2 @@
-# Estrucuras de datos
-* Avendaño Pachuca Jerónimo Jahir
-* Ruiz Juarez Bruno
+# Estructuras de datos
+* Buitron Arreola Juan Carlos
